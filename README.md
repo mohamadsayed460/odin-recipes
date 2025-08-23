@@ -1,1 +1,1 @@
-# odin-recipes
+This document marks the start of my web development journey. Here, I will share my progress, projects, and lessons learned along the way.
